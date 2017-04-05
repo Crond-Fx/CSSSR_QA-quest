@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://blog.csssr.ru/" />
+<title>Квест ассистента менеджера</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Квест ассистента менеджера</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/qa-engineer/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=НАХОДИТЬ НЕСОВЕРШЕНСТВА</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=СОПРОВОЖДАТЬ ПРОЕКТЫ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=РАБОТАТЬ С ФАЙЛАМИ ПРОЕКТОВ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=ВНИКАТЬ В ДЕТАЛИ ПРОЕКТОВ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=attention</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=attention</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=logic</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=logic</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=ВНИКАТЬ В ДЕТАЛИ ПРОЕКТОВ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=НАХОДИТЬ НЕСОВЕРШЕНСТВА</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=eye</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=eye</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=beautiful</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=beautiful</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=tasks</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=tasks</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=soft</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=soft</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=НАХОДИТЬ НЕСОВЕРШЕНСТВА</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=СОПРОВОЖДАТЬ ПРОЕКТЫ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=attention2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=attention2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=responsibility</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=responsibility</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=parallel</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=parallel</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=logic2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=СОПРОВОЖДАТЬ ПРОЕКТЫ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=РАБОТАТЬ С ФАЙЛАМИ ПРОЕКТОВ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=chaos</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.info-files &gt; aside &gt; ul &gt; li &gt; label</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=chaos</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=beautiful2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=beautiful2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=РАБОТАТЬ С ФАЙЛАМИ ПРОЕКТОВ</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=НАХОДИТЬ НЕСОВЕРШЕНСТВА</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Софт для быстрого создания скриншотов</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=hr@csssr.com</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=vk.com/csssr</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
